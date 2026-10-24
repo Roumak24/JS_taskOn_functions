@@ -1,0 +1,1 @@
+This JS task is about understanding functions 
